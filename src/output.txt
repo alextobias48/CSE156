@@ -1,0 +1,122 @@
+========== SUMMARY REPORT ========================================
+Customer                            Type            # Orders   Order      Discounts   Fees     Taxes        Total       
+Tobias, Alex                        Personal        1          $697.00     $0.00       $0.00    $48.79      $745.79    
+University of Nebraska-Lincoln      Academic        2          $18562.00   $3730.46    $0.00    $0.00       $14831.54  
+Venture Industries                  Corporate       1          $344529.70  $96468.32   $100.00  $7444.84    $255606.23 
+Eckbal, Ashkon                      Personal        0          $0.00       $0.00       $0.00    $0.00       $0.00      
+O'Brien, Miles                      Personal        0          $0.00       $0.00       $0.00    $0.00       $0.00      
+
+
+
+========== CUSTOMER INVOICES =====================================
+------------------------------------------------------------------
+Personal customer #944c
+Tobias, Alex
+1060 West Addison Street
+Chicago IL 60613 USA
+
+
+Order ID: B4y1
+Customer: Tobias, Alex (Personal)
+Contact: 
+Date: 2012/12/25
+Item                      Unit Price      Quantity   Item Total  
+Nexus 7                   $199.00          1          $    199.00
+Kindle Fire               $249.00          2          $    498.00
+                                                      -----------
+                                          Order Total $    697.00
+                                  Bulk Item Discounts $      0.00
+                                  Per Order Discounts $      0.00
+                                            Discounts $      0.00
+                                                 Fees $      0.00
+                                            Sub-Total $    697.00
+                                                Taxes $     48.79
+                                                Total $    745.79
+------------------------------------------------------------------
+
+Academic customer #9356
+University of Nebraska-Lincoln
+City Campus
+Lincoln NE 68503 USA
+
+
+Order ID: AMC35
+Customer: University of Nebraska-Lincoln (Academic)
+Contact: purchasing@unl.edu
+Date: 2012/06/12
+Item                      Unit Price      Quantity   Item Total  
+Kindle Fire               $249.00          2          $    498.00
+Mac Mini                  $599.00          20         $  11980.00
+Nexus 7                   $199.00          5          $    995.00
+                                                      -----------
+                                          Order Total $  13473.00
+                                  Bulk Item Discounts $   2396.00
+                                  Per Order Discounts $    553.85
+                                            Discounts $   2949.85
+                                                 Fees $      0.00
+                                            Sub-Total $  10523.15
+                                                Taxes $      0.00
+                                                Total $  10523.15
+------------------------------------------------------------------
+
+Order ID: AMC35
+Customer: University of Nebraska-Lincoln (Academic)
+Contact: purchasing@unl.edu
+Date: 2012/06/12
+Item                      Unit Price      Quantity   Item Total  
+Kindle Fire               $249.00          2          $    498.00
+Mac Mini                  $599.00          7          $   4193.00
+Nexus 7                   $199.00          2          $    398.00
+                                                      -----------
+                                          Order Total $   5089.00
+                                  Bulk Item Discounts $      0.00
+                                  Per Order Discounts $    254.45
+                                            Discounts $    254.45
+                                                 Fees $      0.00
+                                            Sub-Total $   4834.55
+                                                Taxes $      0.00
+                                                Total $   4834.55
+------------------------------------------------------------------
+
+Corporate customer #ee58
+Venture Industries
+Venture Compound
+Roswell NM 88203 USA
+
+
+Order ID: AFT12q
+Customer: Venture Industries (Corporate)
+Contact: drtventure@aol.com,venture_info@venture.com
+Date: 2012/05/21
+Item                      Unit Price      Quantity   Item Total  
+Sharp PN-V602             $11084.99        30         $ 332549.70
+Mac Mini                  $599.00          20         $  11980.00
+                                                      -----------
+                                          Order Total $ 344529.70
+                                  Bulk Item Discounts $  34452.97
+                                  Per Order Discounts $  62015.35
+                                            Discounts $  96468.32
+                                                 Fees $    100.00
+                                            Sub-Total $ 248161.38
+                                                Taxes $   7444.84
+                                                Total $ 255606.23
+------------------------------------------------------------------
+
+Personal customer #306a
+Eckbal, Ashkon
+123 N 1st Street
+Omaha NE 68116 USA
+
+
+***No orders***
+------------------------------------------------------------------
+
+Personal customer #2342
+O'Brien, Miles
+456 S 2nd Street
+Omaha NE 68116 USA
+
+
+***No orders***
+------------------------------------------------------------------
+
